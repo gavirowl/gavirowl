@@ -4,7 +4,6 @@ I am a sophomore majoring in Statistics and Operations Research at UNC-Chapel Hi
 ## Skills
 Base level knowledge in Python and R.
 ### Classes
-< Talk about what you have learned in different classes here. No need to be extremely specific, but feel free to include COMP 110, COMP 210 (if you have enrolled), and COMP 290! >
 In STOR 120, I learned how to use Python to create regression models, run t-tests, and clean data. In COMP110, I've learned the basics of functions and syntax in Python. 
 
 ### Tools and Programming Languages
