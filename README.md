@@ -1,5 +1,5 @@
 ## About Me
-I am a sophomore majoring in Statistics and Operations Research at UNC-Chapel Hill. I am interested on using programming to manipulate, analyze, and clean data.
+I am a junior majoring in Data Science at UNC-Chapel Hill. I am interested in using programming to manipulate, analyze, and clean data.
 
 ## Skills
 Base level knowledge in Python, R, git, and Docker.
