@@ -2,7 +2,7 @@
 Hello!! My name is Gavin Rowland, and I am a third-year student at UNC-Chapel Hill majoring in Data Science. I am interested in applying machine learning techniques to solve business problems.
 
 ### Skills
-Knowledgeable in methods of data analysis, basic linear regression, KNN, and Neural Networks. Work well in teams, agreeable, punctual, and good at communication.
+Knowledgeable in methods of data analysis, regression methods, KNN, and Neural Networks. Work well in teams, agreeable, punctual, and good at communication.
 
 ### Classes
 
